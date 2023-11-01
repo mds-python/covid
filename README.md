@@ -20,4 +20,6 @@ Your code must be object-oriented and written in such a way that it can be easil
 
 The simulation code should allow to launch simulations, specify parameters and see the results. **In addition** you must present some investigations of the questions raised in the problem description (e.g. the impact of social distancing). Preferable format of such report is a Jupyter Notebook importing your module and running your code.
 
+Your program should be started trough the `main.py` file.
+
 Your mark will depend on two factors: how well your code fulfills the task (including model improvements) and the elegance and legibility of the code (you may want to read [Python Style Guide](https://www.python.org/dev/peps/pep-0008/) for some hints).
